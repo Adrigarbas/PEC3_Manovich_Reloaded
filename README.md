@@ -12,4 +12,3 @@ Uno de los temas principales que **Lev Manovich** trata en **El software toma el
 
 ### Referencias y Bibliografía
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
------
