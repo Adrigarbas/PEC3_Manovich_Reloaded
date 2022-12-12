@@ -13,6 +13,11 @@ Es conveniente distinguir la diferencia entre hibridación y multimedia. A princ
 
 ![ANS synthesizer](https://en.wikipedia.org/wiki/ANS_synthesizer#/media/File:ANS_Synthesiser,_Glinka_Museum.jpg)
 
+Cuando accedemos a PIXELSYNTH, nos encontramos con una imagen monocroma que ocupa toda la pantalla, un menú en el lateral izquierdo y una barra vertical que recorre toda la pantalla de derecha a izquierda. De un primer vistazo, el funcionamiento del sintetizador se hace evidente si tenemos el volumen del dispositivo activado porque automáticamente comenzará a reproducirse. A medida que la barra vertical avanza en la pantalla y se topa con las zonas más contrastadas de la imagen de fondo, se generan sonidos. La posición de los elementos que aparecen en la imagen define qué notas se reproducen y una vez la barra ha recorrido toda la pantalla, vuelve a empezar por la izquierda. Hasta aquí podríamos pensar que estamos ante un video que se reproduce en bucle pero las **funcionalidades que encontramos en el menú lateral hacen que PIXELSYNTH se convierta en un proyecto interactivo híbrido**. 
+
+![CAPTURA DE PANTALLA PIXELSYNTH](https://drive.google.com/drive/folders/1aZuCj9au1AzTqHc9cxViSnlnGJ8XB9oq?usp=sharing)
+
+
 ## Re-descubriendo la hibridacion: Wombo
 
 
