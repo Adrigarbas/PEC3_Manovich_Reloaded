@@ -11,7 +11,7 @@ Es conveniente distinguir la diferencia entre hibridación y multimedia. A princ
 
 **PIXELSYNTH** es un proyecto de **Olivia Jack**, artista y programadora que ejecuta sus obras utilizando el software de código abierto e interfaces experimentales. PIXELSYNTH es un sintetizador que permite convertir imágenes en salida de audio, de carácter experimental y artístico, se puede acceder a él con un navegador web y conexión a internet. Está inspirado en el **ANS synthesizer**, un instrumento musical fotoelectrónico que **Evgeny Murzin** creó entre 1937 y 1957. Con el ANS synthesizer se podían obtener imágenes a partir de sonido y viceversa. Podríamos decir que el proyecto híbrido de Olivia Jack es fruto de una remediación del ANS synthesizer al que se han añadido nuevas herramientas, funcionalidades e interacción.
 
-![ANS synthesizer](https://en.wikipedia.org/wiki/ANS_synthesizer#/media/File:ANS_Synthesiser,_Glinka_Museum.jpg)
+![ANS](https://en.wikipedia.org/wiki/ANS_synthesizer#/media/File:ANS_Synthesiser,_Glinka_Museum.jpg)
 
 Cuando accedemos a PIXELSYNTH, nos encontramos con una imagen monocroma que ocupa toda la pantalla, un menú en el lateral izquierdo y una barra vertical que recorre toda la pantalla de derecha a izquierda. De un primer vistazo, el funcionamiento del sintetizador se hace evidente si tenemos el volumen del dispositivo activado porque automáticamente comenzará a reproducirse. A medida que la barra vertical avanza en la pantalla y se topa con las zonas más contrastadas de la imagen de fondo, se generan sonidos. La posición de los elementos que aparecen en la imagen define qué notas se reproducen y una vez la barra ha recorrido toda la pantalla, vuelve a empezar por la izquierda. Hasta aquí podríamos pensar que estamos ante un video que se reproduce en bucle pero las **funcionalidades que encontramos en el menú lateral hacen que PIXELSYNTH se convierta en un proyecto interactivo híbrido**. 
 
@@ -30,8 +30,6 @@ CAPTURA MENÚ SOUND
 En tercer lugar, en *draw* modificamos las propiedades de la herramienta de dibujo que genera el usuario en la misma pantalla de PIXELSYNTH encima de la imagen seleccionada. Hay opciones para cambiar el grosor y la opacidad del trazo, ampliar o reducir las veces que se repite la línea (hasta 6 trazos paralelos) y para borrar partes específicas. De igual manera que en imagen y sonido, aquellos cambios que realicemos en *draw* repercuten al instante en el sonido que se genera a partir de la suma de los medios. 
 
 En resumen, **PIXELSYNTH es un sintetizador híbrido interactivo que fusiona tres medios distintos: imagen fija, sonido y dibujo lineal**. A partir de esta unión, obtenemos una experiencia visual y sonora que nos invita a interactuar modificando diferentes parámetros independientes de cada medio que acaban afectando a todos los demás.   
-
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
 ## Re-descubriendo la hibridacion: Wombo
 
