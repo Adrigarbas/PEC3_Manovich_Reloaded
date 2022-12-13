@@ -39,7 +39,7 @@ La calidad del vídeo de salida no es la más espectacular ([ver vídeo de ejemp
 
 **Wombo fusiona dos medios diferentes** gracias a la inteligencia artificial, **la imagen o fotografía con el video en movimiento** a través de la inteligencia artificial con algoritmos de análisis y procesado de imagen. La fusión de estos medios en una única aplicación, generan una nueva experiencia accesible a cualquier usuario y da como resultado una nueva obra. Es un caso de hibridación bastante experimental y ofrece una experiencia un tanto limitada ya que solamente permite editar el encuadre recortando la imagen seleccionada y podemos escoger entre una lista de canciones bastante limitada. 
 
-
+------
 ### Referencias y Bibliografía
 * Manovich, L. M. [Lev Manovich]. (2013) *El software toma el mando*. Editorial UOC.
 * ALBERICH, Jordi. *Elementos de la creatividad multimedia: apropiación, remediación, hibridación*. 18 de enero de 2018. Disponible en: https://mosaic.uoc.edu/2018/01/18/elementos-de-la-creatividad-multimedia-apropiaci on-remediacion-hibridacion/
