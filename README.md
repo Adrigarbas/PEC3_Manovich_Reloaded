@@ -1,4 +1,10 @@
 # RETO ACTIVIDAD 3. Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
+### Cultura digital - UOC
+
+**Autor**: Adrià Garriga 
+**Fecha**: 20/12/2022
+
+--------
 
 ## La hibridación de medios
 
@@ -49,3 +55,7 @@ A pesar de que el resultado que se obtiene es un medio ya existente, un vídeo d
 * Wombo, Wikipedia: La enciclopedia libre. Disponible en: https://en.wikipedia.org/wiki/Wombo
 * FERNANDEZ, Yúbal. *Cómo usar Wombo AI para crear divertidos vídeos con tus fotos*. 11 de marzo de 2021. Disponible en: https://www.xataka.com/basics/como-usar-wombo-ai-para-crear-divertidos-videos-tus-fotos
 * Deepfake, Wikipedia: La enciclopedia libre. Disponible en: https://es.wikipedia.org/wiki/Deepfake
+
+------
+
+Imagen ANS Synthesiser CC BY 2.0 [Charles Hutchins](https://en.wikipedia.org/wiki/ANS_synthesizer#/media/File:ANS_Synthesiser,_Glinka_Museum.jpg)
